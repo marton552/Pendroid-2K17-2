@@ -37,5 +37,16 @@ Boss-ok:
 - [ ] Fagylalt
 
 
+____________________________________________________________
+
+Kapuk:
+
+- [ ] And
+
+- [ ] Or
+
+- [ ] xor
+
+- [ ] not
 
 Leadási határidő: 2017. december 8., péntek 24:00
